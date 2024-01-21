@@ -1,0 +1,302 @@
+Country_name,year,Regional_indicator,Life_Ladder,Life_Ladder_Avg,MAE
+Afghanistan,2020,South Asia,2.566900015,3.391,0.8240999850000001
+Afghanistan,2021,South Asia,2.523,3.312,0.7889999999999997
+Albania,2020,Central and Eastern Europe,4.882699966,5.026,0.14330003400000013
+Albania,2021,Central and Eastern Europe,5.117,5.052,0.06500000000000039
+Algeria,2020,Middle East and North Africa,5.005099773,4.898,0.10709977300000073
+Algeria,2021,Middle East and North Africa,4.887,4.888,0.001000000000000334
+Argentina,2020,Latin America and Caribbean,5.974699974,6.351,0.376300026
+Argentina,2021,Latin America and Caribbean,5.929,6.297,0.36799999999999944
+Armenia,2020,Commonwealth of Independent States,4.676799774,4.988,0.3112002260000004
+Armenia,2021,Commonwealth of Independent States,5.283,5.028,0.2550000000000008
+Australia,2020,North America and ANZ,7.222799778,7.263,0.040200222000000174
+Australia,2021,North America and ANZ,7.183,7.222,0.03900000000000059
+Austria,2020,Western Europe,7.294199944,6.891,0.4031999439999998
+Austria,2021,Western Europe,7.268,6.874,0.39400000000000013
+Azerbaijan,2020,Commonwealth of Independent States,5.164800167,5.31,0.1451998329999995
+Azerbaijan,2021,Commonwealth of Independent States,5.171,5.326,0.15499999999999936
+Bahrain,2020,Middle East and North Africa,6.227300167,6.251,0.023699833000000226
+Bahrain,2021,Middle East and North Africa,6.647,6.237,0.41000000000000014
+Bangladesh,2020,South Asia,4.832799911,4.677,0.1557999110000008
+Bangladesh,2021,South Asia,5.025,4.737,0.28800000000000026
+Belarus,2020,Commonwealth of Independent States,5.539899826,5.5,0.03989982600000008
+Belarus,2021,Commonwealth of Independent States,5.534,5.479,0.054999999999999716
+Belgium,2020,Western Europe,6.863500118,6.647,0.2165001179999999
+Belgium,2021,Western Europe,6.834,6.594,0.23999999999999932
+Benin,2020,Sub-Saharan Africa,5.21600008,3.807,1.4090000799999998
+Benin,2021,Sub-Saharan Africa,5.045,3.8,1.245
+Bolivia,2020,Latin America and Caribbean,5.747499943,5.826,0.0785000569999994
+Bolivia,2021,Latin America and Caribbean,5.716,5.791,0.07500000000000018
+Bosnia and Herzegovina,2020,Central and Eastern Europe,5.674099922,5.216,0.4580999219999997
+Bosnia and Herzegovina,2021,Central and Eastern Europe,5.813,5.299,0.5139999999999993
+Botswana,2020,Sub-Saharan Africa,3.478899956,5.133,1.6541000440000002
+Botswana,2021,Sub-Saharan Africa,3.467,5.093,1.626
+Brazil,2020,Latin America and Caribbean,6.375599861,6.179,0.19659986100000015
+Brazil,2021,Latin America and Caribbean,6.33,6.151,0.17900000000000027
+Bulgaria,2020,Central and Eastern Europe,5.101500034,5.586,0.48449996600000045
+Bulgaria,2021,Central and Eastern Europe,5.266,5.618,0.3520000000000003
+Burkina Faso,2020,Sub-Saharan Africa,4.768700123,4.086,0.682700123
+Burkina Faso,2021,Sub-Saharan Africa,4.834,4.067,0.7669999999999995
+Burundi,2020,Sub-Saharan Africa,3.775300026,3.21,0.5653000260000001
+Burundi,2021,Sub-Saharan Africa,3.775,3.031,0.7439999999999998
+Cambodia,2020,Southeast Asia,4.848400116,4.754,0.09440011600000009
+Cambodia,2021,Southeast Asia,4.83,4.75,0.08000000000000007
+Cameroon,2020,Sub-Saharan Africa,5.084899902,4.267,0.8178999019999997
+Cameroon,2021,Sub-Saharan Africa,5.142,4.268,0.8740000000000006
+Canada,2020,North America and ANZ,7.23210001,7.205,0.02710000999999984
+Canada,2021,North America and ANZ,7.103,7.172,0.06899999999999995
+Central African Republic,2020,Sub-Saharan Africa,3.475899935,3.71,0.2341000649999998
+Chad,2020,Sub-Saharan Africa,4.422699928,3.671,0.7516999280000003
+Chad,2021,Sub-Saharan Africa,4.355,3.652,0.7030000000000003
+Chile,2020,Latin America and Caribbean,6.228499889,6.289,0.060500110999999634
+Chile,2021,Latin America and Caribbean,6.172,6.275,0.10300000000000065
+China,2020,East Asia,5.123899937,5.223,0.09910006299999985
+China,2021,East Asia,5.339,5.252,0.08700000000000063
+Colombia,2020,Latin America and Caribbean,6.163400173,6.129,0.034400173000000756
+Colombia,2021,Latin America and Caribbean,6.012,6.113,0.10100000000000087
+Comoros,2020,Sub-Saharan Africa,4.288599968,4.038,0.2505999679999995
+Comoros,2021,Sub-Saharan Africa,4.289,3.996,0.2929999999999997
+Congo (Brazzaville),2020,Sub-Saharan Africa,5.194399834,4.204,0.9903998340000006
+Congo (Brazzaville),2021,Sub-Saharan Africa,5.342,4.196,1.146
+Congo (Kinshasa),2020,Sub-Saharan Africa,4.31099987,3.808,0.50299987
+Costa Rica,2020,Latin America and Caribbean,7.121399879,6.465,0.6563998790000003
+Costa Rica,2021,Latin America and Caribbean,7.069,6.452,0.617
+Croatia,2020,Central and Eastern Europe,5.504700184,5.558,0.053299816
+Croatia,2021,Central and Eastern Europe,5.882,5.583,0.2989999999999995
+Cyprus,2020,Western Europe,6.15899992,6.125,0.033999920000000294
+Cyprus,2021,Western Europe,6.223,6.155,0.06799999999999962
+Czech Republic,2020,Central and Eastern Europe,6.910900116,5.912,0.9989001159999997
+Czech Republic,2021,Central and Eastern Europe,6.965,5.914,1.0510000000000002
+Denmark,2020,Western Europe,7.645599842,7.168,0.47759984200000005
+Denmark,2021,Western Europe,7.62,7.135,0.4850000000000003
+Dominican Republic,2020,Latin America and Caribbean,5.689199924,6.283,0.593800076
+Dominican Republic,2021,Latin America and Caribbean,5.545,6.266,0.7210000000000001
+Ecuador,2020,Latin America and Caribbean,5.925199986,6.051,0.12580001400000018
+Ecuador,2021,Latin America and Caribbean,5.764,6.023,0.25899999999999945
+Egypt,2020,Middle East and North Africa,4.151400089,4.895,0.7435999109999996
+Egypt,2021,Middle East and North Africa,4.283,4.881,0.5979999999999999
+El Salvador,2020,Latin America and Caribbean,6.34829998,5.753,0.5952999800000001
+El Salvador,2021,Latin America and Caribbean,6.061,5.773,0.28800000000000026
+Estonia,2020,Central and Eastern Europe,6.021800041,6.116,0.094199959
+Estonia,2021,Central and Eastern Europe,6.189,6.127,0.06200000000000028
+Ethiopia,2020,Sub-Saharan Africa,4.186200142,4.25,0.06379985800000032
+Ethiopia,2021,Sub-Saharan Africa,4.275,4.25,0.025000000000000355
+Finland,2020,Western Europe,7.808700085,7.001,0.8077000849999996
+Finland,2021,Western Europe,7.842,6.972,0.8699999999999992
+France,2020,Western Europe,6.663799763,6.545,0.11879976300000017
+France,2021,Western Europe,6.69,6.552,0.1380000000000008
+Gabon,2020,Sub-Saharan Africa,4.829299927,4.903,0.07370007299999948
+Gabon,2021,Sub-Saharan Africa,4.852,4.915,0.06299999999999972
+Gambia,2020,Sub-Saharan Africa,4.750599861,4.598,0.15259986100000056
+Gambia,2021,Sub-Saharan Africa,5.051,4.446,0.6050000000000004
+Georgia,2020,Commonwealth of Independent States,4.672599792,4.799,0.12640020800000062
+Georgia,2021,Commonwealth of Independent States,4.891,4.831,0.05999999999999961
+Germany,2020,Western Europe,7.075799942,6.848,0.22779994199999987
+Germany,2021,Western Europe,7.155,6.799,0.35599999999999987
+Ghana,2020,Sub-Saharan Africa,5.147999763,4.562,0.5859997629999993
+Ghana,2021,Sub-Saharan Africa,5.088,4.573,0.5149999999999997
+Greece,2020,Western Europe,5.514999866,5.623,0.10800013400000008
+Greece,2021,Western Europe,5.723,5.591,0.13199999999999967
+Guatemala,2020,Latin America and Caribbean,6.398900032,5.929,0.46990003199999997
+Guatemala,2021,Latin America and Caribbean,6.435,5.912,0.5229999999999997
+Guinea,2020,Sub-Saharan Africa,4.949299812,4.037,0.9122998119999997
+Guinea,2021,Sub-Saharan Africa,4.984,4.081,0.9029999999999996
+Haiti,2020,Latin America and Caribbean,3.720799923,4.515,0.7942000769999997
+Haiti,2021,Latin America and Caribbean,3.615,4.547,0.9319999999999995
+Honduras,2020,Latin America and Caribbean,5.953199863,5.694,0.2591998630000001
+Honduras,2021,Latin America and Caribbean,5.919,5.794,0.125
+Hong Kong S.A.R. of China,2020,East Asia,5.510399818,6.24,0.7296001820000004
+Hong Kong S.A.R. of China,2021,East Asia,5.477,6.203,0.726
+Hungary,2020,Central and Eastern Europe,6.000400066,5.603,0.39740006600000033
+Hungary,2021,Central and Eastern Europe,5.992,5.658,0.33399999999999963
+Iceland,2020,Western Europe,7.504499912,7.063,0.44149991200000027
+Iceland,2021,Western Europe,7.554,7.051,0.5030000000000001
+India,2020,South Asia,3.573299885,4.645,1.0717001149999996
+India,2021,South Asia,3.819,4.681,0.8620000000000001
+Indonesia,2020,Southeast Asia,5.285600185,5.344,0.058399815000000466
+Indonesia,2021,Southeast Asia,5.345,5.378,0.03300000000000036
+Iran,2020,Middle East and North Africa,4.672399998,5.122,0.4496000019999995
+Iran,2021,Middle East and North Africa,4.721,5.15,0.42900000000000027
+Iraq,2020,Middle East and North Africa,4.784800053,4.849,0.06419994700000053
+Iraq,2021,Middle East and North Africa,4.854,4.862,0.008000000000000007
+Ireland,2020,Western Europe,7.093699932,7.166,0.07230006800000055
+Ireland,2021,Western Europe,7.085,7.143,0.05799999999999983
+Israel,2020,Middle East and North Africa,7.128600121,6.094,1.0346001209999995
+Israel,2021,Middle East and North Africa,7.157,6.093,1.064
+Italy,2020,Western Europe,6.38740015,6.195,0.1924001500000001
+Italy,2021,Western Europe,6.483,6.194,0.2889999999999997
+Ivory Coast,2020,Sub-Saharan Africa,5.233300209,4.305,0.9283002090000005
+Ivory Coast,2021,Sub-Saharan Africa,5.306,4.247,1.0590000000000002
+Jamaica,2020,Latin America and Caribbean,5.889800072,5.975,0.08519992799999976
+Jamaica,2021,Latin America and Caribbean,6.309,5.985,0.32399999999999984
+Japan,2020,East Asia,5.870800018,5.879,0.008199981999999828
+Japan,2021,East Asia,5.94,5.836,0.10400000000000009
+Jordan,2020,Middle East and North Africa,4.633399963,5.19,0.5566000370000008
+Jordan,2021,Middle East and North Africa,4.395,5.139,0.7440000000000007
+Kazakhstan,2020,Commonwealth of Independent States,6.057899952,5.818,0.23989995200000003
+Kazakhstan,2021,Commonwealth of Independent States,6.152,5.821,0.3310000000000004
+Kenya,2020,Sub-Saharan Africa,4.583000183,4.691,0.10799981699999961
+Kenya,2021,Sub-Saharan Africa,4.607,4.657,0.04999999999999982
+Kosovo,2020,Central and Eastern Europe,6.325200081,5.381,0.944200081
+Kosovo,2021,Central and Eastern Europe,6.372,5.44,0.9319999999999995
+Kuwait,2020,Middle East and North Africa,6.102099895,6.102,9.989499999996099e-05
+Kuwait,2021,Middle East and North Africa,6.106,6.089,0.01699999999999946
+Kyrgyzstan,2020,Commonwealth of Independent States,5.541500092,5.23,0.3115000919999993
+Kyrgyzstan,2021,Commonwealth of Independent States,5.744,5.22,0.524
+Laos,2020,Southeast Asia,4.888599873,4.915,0.026400126999999607
+Laos,2021,Southeast Asia,5.03,4.905,0.125
+Latvia,2020,Central and Eastern Europe,5.949999809,5.666,0.283999809
+Latvia,2021,Central and Eastern Europe,6.032,5.662,0.3700000000000001
+Lebanon,2020,Middle East and North Africa,4.771500111,5.147,0.3754998890000003
+Lebanon,2021,Middle East and North Africa,4.584,5.116,0.532
+Lesotho,2020,Sub-Saharan Africa,3.652800083,4.374,0.7211999169999999
+Lesotho,2021,Sub-Saharan Africa,3.512,4.211,0.6990000000000003
+Liberia,2020,Sub-Saharan Africa,4.557899952,3.928,0.6298999519999997
+Liberia,2021,Sub-Saharan Africa,4.625,3.956,0.669
+Libya,2020,Middle East and North Africa,5.488800049,5.39,0.09880004900000028
+Libya,2021,Middle East and North Africa,5.41,5.397,0.0129999999999999
+Lithuania,2020,Central and Eastern Europe,6.215499878,5.734,0.48149987800000016
+Lithuania,2021,Central and Eastern Europe,6.255,5.764,0.49099999999999966
+Luxembourg,2020,Western Europe,7.237500191,7.191,0.0465001909999998
+Luxembourg,2021,Western Europe,7.324,7.144,0.17999999999999972
+Madagascar,2020,Sub-Saharan Africa,4.165599823,3.775,0.39059982300000007
+Madagascar,2021,Sub-Saharan Africa,4.208,3.78,0.4280000000000004
+Malawi,2020,Sub-Saharan Africa,3.538000107,3.662,0.12399989300000014
+Malawi,2021,Sub-Saharan Africa,3.6,3.69,0.08999999999999986
+Malaysia,2020,Southeast Asia,5.384300232,5.581,0.19669976800000022
+Malaysia,2021,Southeast Asia,5.384,5.581,0.19700000000000006
+Maldives,2020,South Asia,5.197599888,5.785,0.5874001120000001
+Maldives,2021,South Asia,5.198,5.764,0.5659999999999998
+Mali,2020,Sub-Saharan Africa,4.729300022,4.159,0.5703000220000005
+Mali,2021,Sub-Saharan Africa,4.723,4.127,0.5960000000000001
+Malta,2020,Western Europe,6.772799969,6.831,0.05820003100000015
+Malta,2021,Western Europe,6.602,6.809,0.20699999999999985
+Mauritania,2020,Sub-Saharan Africa,4.374599934,4.402,0.027400066000000223
+Mauritania,2021,Sub-Saharan Africa,4.227,4.338,0.11099999999999977
+Mauritius,2020,Sub-Saharan Africa,6.101299763,5.633,0.4682997630000001
+Mauritius,2021,Sub-Saharan Africa,6.049,5.677,0.3720000000000008
+Mexico,2020,Latin America and Caribbean,6.465000153,6.154,0.31100015300000017
+Mexico,2021,Latin America and Caribbean,6.317,6.189,0.1280000000000001
+Moldova,2020,Commonwealth of Independent States,5.607500076,5.102,0.5055000759999997
+Moldova,2021,Commonwealth of Independent States,5.766,5.097,0.6689999999999996
+Mongolia,2020,East Asia,5.456200123,5.293,0.1632001230000002
+Mongolia,2021,East Asia,5.677,5.3,0.3769999999999998
+Montenegro,2020,Central and Eastern Europe,5.54610014,5.389,0.15710013999999983
+Montenegro,2021,Central and Eastern Europe,5.581,5.442,0.13900000000000023
+Morocco,2020,Middle East and North Africa,5.094799995,4.561,0.5337999949999999
+Morocco,2021,Middle East and North Africa,4.918,4.566,0.3520000000000003
+Mozambique,2020,Sub-Saharan Africa,4.623600006,4.102,0.5216000059999999
+Mozambique,2021,Sub-Saharan Africa,4.794,4.134,0.6599999999999993
+Myanmar,2020,Southeast Asia,4.308000088,5.149,0.840999912
+Myanmar,2021,Southeast Asia,4.426,5.18,0.7539999999999996
+Namibia,2020,Sub-Saharan Africa,4.571100235,4.979,0.4078997649999998
+Namibia,2021,Sub-Saharan Africa,4.574,4.914,0.33999999999999986
+Nepal,2020,South Asia,5.137199879,4.778,0.35919987900000017
+Nepal,2021,South Asia,5.269,4.791,0.47799999999999976
+Netherlands,2020,Western Europe,7.448900223,7.039,0.4099002230000002
+Netherlands,2021,Western Europe,7.464,7.045,0.4190000000000005
+New Zealand,2020,North America and ANZ,7.299600124,7.313,0.013399875999999367
+New Zealand,2021,North America and ANZ,7.277,7.259,0.017999999999999794
+Nicaragua,2020,Latin America and Caribbean,6.13710022,5.872,0.2651002199999999
+Nicaragua,2021,Latin America and Caribbean,5.972,5.875,0.09700000000000042
+Niger,2020,Sub-Saharan Africa,4.909599781,3.827,1.0825997809999999
+Niger,2021,Sub-Saharan Africa,5.074,3.778,1.2959999999999998
+Nigeria,2020,Sub-Saharan Africa,4.724100113,4.571,0.1531001130000007
+Nigeria,2021,Sub-Saharan Africa,4.759,4.563,0.19600000000000062
+North Cyprus,2020,Western Europe,5.53550005,6.288,0.7524999500000007
+North Cyprus,2021,Western Europe,5.536,6.275,0.7390000000000008
+North Macedonia,2021,Central and Eastern Europe,5.101,5.355,0.25400000000000045
+Norway,2020,Western Europe,7.487999916,7.209,0.27899991600000007
+Norway,2021,Western Europe,7.392,7.195,0.19700000000000006
+Pakistan,2020,South Asia,5.69329977,4.411,1.2822997700000007
+Pakistan,2021,South Asia,4.934,4.486,0.4480000000000004
+Palestinian Territories,2020,Middle East and North Africa,4.552800179,4.647,0.09419982100000013
+Palestinian Territories,2021,Middle East and North Africa,4.517,4.666,0.14900000000000002
+Panama,2020,Latin America and Caribbean,6.304800034,6.529,0.22419996599999958
+Panama,2021,Latin America and Caribbean,6.18,6.494,0.31400000000000006
+Paraguay,2020,Latin America and Caribbean,5.692100048,6.222,0.5298999520000001
+Paraguay,2021,Latin America and Caribbean,5.653,6.215,0.5620000000000003
+Peru,2020,Latin America and Caribbean,5.796800137,5.929,0.1321998630000003
+Peru,2021,Latin America and Caribbean,5.84,5.933,0.09299999999999997
+Philippines,2020,Southeast Asia,6.006000042,5.088,0.9180000420000001
+Philippines,2021,Southeast Asia,5.88,5.078,0.8019999999999996
+Poland,2020,Central and Eastern Europe,6.186299801,5.906,0.28029980099999996
+Poland,2021,Central and Eastern Europe,6.166,5.905,0.2610000000000001
+Portugal,2020,Western Europe,5.910900116,6.209,0.298099884
+Portugal,2021,Western Europe,5.929,6.218,0.2889999999999997
+Romania,2020,Central and Eastern Europe,6.123700142,5.579,0.5447001419999999
+Romania,2021,Central and Eastern Europe,6.14,5.592,0.548
+Russia,2020,Commonwealth of Independent States,5.546000004,5.58,0.033999996000000365
+Russia,2021,Commonwealth of Independent States,5.477,5.578,0.10099999999999998
+Rwanda,2020,Sub-Saharan Africa,3.312299967,4.467,1.1547000329999997
+Rwanda,2021,Sub-Saharan Africa,3.415,4.405,0.9900000000000002
+Saudi Arabia,2020,Middle East and North Africa,6.406499863,6.032,0.3744998629999996
+Saudi Arabia,2021,Middle East and North Africa,6.494,6.029,0.46499999999999986
+Senegal,2020,Sub-Saharan Africa,4.980800152,4.343,0.6378001519999996
+Senegal,2021,Sub-Saharan Africa,5.132,4.349,0.7829999999999995
+Serbia,2020,Central and Eastern Europe,5.77820015,5.429,0.3492001499999997
+Serbia,2021,Central and Eastern Europe,6.078,5.488,0.5899999999999999
+Sierra Leone,2020,Sub-Saharan Africa,3.926399946,3.823,0.10339994600000013
+Sierra Leone,2021,Sub-Saharan Africa,3.849,3.847,0.002000000000000224
+Singapore,2020,Southeast Asia,6.377099991,6.708,0.3309000090000005
+Singapore,2021,Southeast Asia,6.377,6.708,0.3310000000000004
+Slovakia,2020,Central and Eastern Europe,6.280600071,5.787,0.49360007100000036
+Slovakia,2021,Central and Eastern Europe,6.331,5.813,0.5180000000000007
+Slovenia,2020,Central and Eastern Europe,6.363399982,6.181,0.18239998199999974
+Slovenia,2021,Central and Eastern Europe,6.461,6.188,0.2730000000000006
+South Africa,2020,Sub-Saharan Africa,4.814099789,5.137,0.32290021099999944
+South Africa,2021,Sub-Saharan Africa,4.956,5.086,0.1299999999999999
+South Korea,2020,East Asia,5.872399807,5.467,0.4053998070000002
+South Korea,2021,East Asia,5.845,5.468,0.3769999999999998
+South Sudan,2020,Sub-Saharan Africa,2.816600084,3.899,1.082399916
+Spain,2020,Western Europe,6.400899887,6.412,0.011100113000000356
+Spain,2021,Western Europe,6.491,6.396,0.09499999999999975
+Sri Lanka,2020,South Asia,4.327000141,5.477,1.1499998590000002
+Sri Lanka,2021,South Asia,4.325,5.439,1.1139999999999999
+Swaziland,2020,Sub-Saharan Africa,4.308100224,4.658,0.349899776
+Swaziland,2021,Sub-Saharan Africa,4.308,4.739,0.43100000000000005
+Sweden,2020,Western Europe,7.353499889,7.064,0.289499889
+Sweden,2021,Western Europe,7.363,7.032,0.3310000000000004
+Switzerland,2020,Western Europe,7.559899807,7.153,0.4068998070000003
+Switzerland,2021,Western Europe,7.571,7.126,0.4449999999999994
+Taiwan Province of China,2020,East Asia,6.45539999,5.878,0.57739999
+Taiwan Province of China,2021,East Asia,6.584,5.881,0.7029999999999994
+Tajikistan,2020,Commonwealth of Independent States,5.555699825,4.871,0.6846998249999992
+Tajikistan,2021,Commonwealth of Independent States,5.466,4.869,0.5970000000000004
+Tanzania,2020,Sub-Saharan Africa,3.476200104,4.416,0.9397998960000002
+Tanzania,2021,Sub-Saharan Africa,3.623,4.42,0.7969999999999997
+Thailand,2020,Southeast Asia,5.998799801,5.678,0.3207998009999997
+Thailand,2021,Southeast Asia,5.985,5.682,0.30299999999999994
+Togo,2020,Sub-Saharan Africa,4.187200069,3.616,0.5712000690000001
+Togo,2021,Sub-Saharan Africa,4.107,3.621,0.4860000000000002
+Trinidad and Tobago,2020,Latin America and Caribbean,6.191899776,5.645,0.5468997760000001
+Tunisia,2020,Middle East and North Africa,4.392199993,4.691,0.29880000699999965
+Tunisia,2021,Middle East and North Africa,4.596,4.687,0.09100000000000019
+Turkey,2020,Middle East and North Africa,5.131800175,5.478,0.34619982499999935
+Turkey,2021,Middle East and North Africa,4.948,5.434,0.48599999999999977
+Turkmenistan,2020,Commonwealth of Independent States,5.119100094,5.656,0.5368999059999995
+Turkmenistan,2021,Commonwealth of Independent States,5.066,5.709,0.6429999999999998
+Uganda,2020,Sub-Saharan Africa,4.43200016,4.295,0.13700016000000037
+Uganda,2021,Sub-Saharan Africa,4.636,4.277,0.359
+Ukraine,2020,Commonwealth of Independent States,4.56069994,5.136,0.57530006
+Ukraine,2021,Commonwealth of Independent States,4.875,5.146,0.2709999999999999
+United Arab Emirates,2020,Middle East and North Africa,6.790800095,6.477,0.3138000949999995
+United Arab Emirates,2021,Middle East and North Africa,6.561,6.464,0.09699999999999953
+United Kingdom,2020,Western Europe,7.164500237,6.91,0.25450023700000024
+United Kingdom,2021,Western Europe,7.064,6.889,0.17499999999999982
+United States,2020,North America and ANZ,6.939599991,6.944,0.00440000900000026
+United States,2021,North America and ANZ,6.951,6.922,0.028999999999999915
+Uruguay,2020,Latin America and Caribbean,6.440100193,6.554,0.11389980700000013
+Uruguay,2021,Latin America and Caribbean,6.431,6.546,0.11500000000000021
+Uzbekistan,2020,Commonwealth of Independent States,6.257599831,5.823,0.4345998309999999
+Uzbekistan,2021,Commonwealth of Independent States,6.179,5.781,0.3980000000000006
+Venezuela,2020,Latin America and Caribbean,5.053199768,5.689,0.6358002320000002
+Venezuela,2021,Latin America and Caribbean,4.892,5.686,0.7939999999999996
+Vietnam,2020,Southeast Asia,5.353499889,5.103,0.2504998890000003
+Vietnam,2021,Southeast Asia,5.411,5.085,0.3259999999999996
+Yemen,2020,Middle East and North Africa,3.527400017,4.234,0.7065999829999998
+Yemen,2021,Middle East and North Africa,3.658,4.275,0.6170000000000004
+Zambia,2020,Sub-Saharan Africa,3.759399891,4.457,0.6976001089999997
+Zambia,2021,Sub-Saharan Africa,4.073,4.49,0.4169999999999998
+Zimbabwe,2020,Sub-Saharan Africa,3.299200058,4.296,0.9967999420000004
+Zimbabwe,2021,Sub-Saharan Africa,3.145,4.305,1.1599999999999997
