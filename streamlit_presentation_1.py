@@ -110,20 +110,6 @@ elif page == pages[1]:
     fig_2.add_shape(type='line', x0=min(x), y0=min(x), x1=max(x), y1=max(x), line=dict(dash='dash', color='white'))
     st.plotly_chart(fig_2)
     st.caption('The distribution of the values for the column Healthy_life_expectancy_at_birth do not follow a normal distribution as the other values of the dataset.')
-    
-    #st.markdown('#### qqplot Life Ladder')
-    #qq_plot_1 = qqplot(happy_filtered_heatmap['Life_Ladder'], line='s', fit=True, marker='o', color='blue')
-
-    #x_1, y_1 = qq_plot_1.gca().lines[0].get_xydata().T
-
-    #fig_3 = px.scatter(x=x_1, y=y_1, labels={'x': 'Theoretical Quantiles', 'y': 'Sample Quantiles'},
-    #             template='plotly_white')
-
-    #fig_3.add_shape(type='line', x0=min(x_1), y0=min(x_1), x1=max(x_1), y1=max(x_1), line=dict(dash='dash', color='white'))
-    #st.plotly_chart(fig_3)
-
-
-
 
 elif page == pages[2]:
     st.image('balloons_1.jpeg')
@@ -155,14 +141,6 @@ elif page == pages[2]:
     fig_7.update_layout(xaxis={'visible': False})
     st.plotly_chart(fig_7, use_container_width=True)
     st.caption('We notice that there is not much movement between the single regions throughout the years. Three groups of regions can be identified: one group with a very high level of happiness, one big middle group with a mid-level of happiness and one group with a very low average lader score and therefore with a low level of happiness.')
-
-    #st.markdown('##### Distribution of Generosity per Regional Indicator')
-    #df_sorted = df.sort_values(by=['Regional_indicator', 'Generosity'])
-    #fig_4 = px.box(df, x="Regional_indicator", y="Generosity", color="level_happiness", hover_data="Country_name", animation_frame="year")
-    #fig_4.update_layout(xaxis={'visible': False})
-    #st.plotly_chart(fig_4, use_container_width=True)
-    #st.caption('Interestingly the area of the world where generosity seems to be most present is Souteast Asia. Nonetheless the ladder scores of this remain in the mid-level happiness group. But this is not a surprise as according to the heatmap there is no correlation between Generosity and the Ladder score.')
-
 
     st.markdown('##### The bigger the economy the happier?')
     fig_5= px.scatter(df, x="Log_GDP_per_capita", y="Life_Ladder", color="level_happiness", hover_data=['Country_name', 'Regional_indicator'], animation_frame="year")
@@ -203,17 +181,6 @@ elif page == pages[3]:
     st.markdown('##### Dataframe')
     st.dataframe(df_avg)
 
-    #st.divider()
-
-    #st.markdown('###### The MAE per Regional Indicator')
-
-    #grouped_mae = df_mae_1.groupby('Country_name').agg({'Life_Ladder': 'mean', 'Life_Ladder_Avg': 'mean', 'MAE': 'mean'}).reset_index()
-
-    #fig_4 = px.scatter(grouped_mae, x='Life_Ladder', y='Life_Ladder_Avg', size='MAE',
-    #                  hover_data=['Country_name', 'MAE'], opacity=0.6)
-
-    #st.plotly_chart(fig_4, use_container_width=True)
-
     st.divider()
     st.markdown('##### Evaluation')
     st.markdown('###### Life Ladder Predictions')
@@ -236,22 +203,6 @@ elif page == pages[3]:
     st.caption("Seemingly the Ladder score of most countries measuring the happiness was not negatively affected. Actually some countries show higher values compared to the models' predictions.")
     st.caption("Nonetheless we can also see in the example of India that the models' predictions are way higher than the reported values. In this case the outbreak of COVID might have strongly affected the countries' happiness.")
     
-    #st.markdown('###### Life Ladder (MOV AVG)')
-    #grouped_plot = df_avg_mae.groupby(['Country_name', 'year']).agg({'Life_Ladder': 'mean', 'Life_Ladder_Avg': 'mean'}).reset_index()
-    #selected_countries = ['Colombia', 'Ethiopia', 'France', 'Germany', 'Morocco', 'India']
-    #df_avg_plot = grouped_plot[grouped_plot['Country_name'].isin(selected_countries)].reset_index(drop=True)
-    #fig_2= go.Figure()
-
-    #for region in df_avg_plot['Country_name'].unique():
-    #    region_data = df_avg_plot[df_avg_plot['Country_name'] == region]
-
-    #    trace1 = go.Scatter(x=region_data['year'], y=region_data['Life_Ladder'], mode='lines+markers', name=f'Life Ladder - {region}')
-    #    fig_2.add_trace(trace1)
-
-    #    trace2 = go.Scatter(x=region_data['year'], y=region_data['Life_Ladder_Avg'], mode='lines+markers', name=f'Life Ladder pred - {region}', line=dict(dash='dash'))
-    #    fig_2.add_trace(trace2)
-
-    #st.plotly_chart(fig_2, use_container_width=True)
     st.divider()
     st.markdown('###### GDP Predictions')
     merged_gdp = merged_variables.groupby(['Country_name', 'year']).agg({'Log_GDP_per_capita': 'mean', 'Log_GDP_per_capita_pred': 'mean'}).reset_index()
@@ -291,35 +242,6 @@ elif page == pages[3]:
     st.caption("Some countries show a possible negative impact of COVID on their life expectancy. The models' predictions are higher than the reported values.")
     st.caption("However a lot countries seemingly show no decline in their life expectancy. The value remained stable through the COVID years.")
 
-    #st.markdown('###### Social Support (LIN REG)')
-    #merged_social = merged_variables.groupby(['Country_name', 'year']).agg({'Social_support': 'mean', 'Social_support_pred': 'mean'}).reset_index()
-    #selected_countries = ['Colombia', 'Ethiopia', 'France', 'Germany', 'Morocco', 'India']
-    #merged_social_group = merged_social[merged_social['Country_name'].isin(selected_countries)].reset_index(drop=True)
-    #fig_7= go.Figure()
-
-    #for region in merged_social_group['Country_name'].unique():
-    #    region_data = merged_social_group[merged_social_group['Country_name'] == region]
-
-    #    trace1 = go.Scatter(x=region_data['year'], y=region_data['Social_support'], mode='lines+markers', name=f'Social Support - {region}')
-    #    fig_7.add_trace(trace1)
-
-    #    trace2 = go.Scatter(x=region_data['year'], y=region_data['Social_support_pred'], mode='lines+markers', name=f'Social Support pred - {region}', line=dict(dash='dash'))
-    #    fig_7.add_trace(trace2)
-    #st.plotly_chart(fig_7, use_container_width=True)
-
-    #st.divider()
-
-    #st.markdown('###### Mean Absolute Error')
-    #st.dataframe(df_mae_1)
-
-    #unique_countries = df_mae_1['Country_name'].unique()
-    #unique_years = df_mae_1['year'].unique()
-    #selected_countries = st.multiselect('Select a country:', unique_countries)
-    #selected_years = st.multiselect('Select a year:', unique_years, default=unique_years)
-    #if selected_countries and selected_years:
-    #        data_subset = df_mae_1[df_mae_1['Country_name'].isin(selected_countries) & df_mae_1['year'].isin(selected_years)] 
-    #        st.dataframe(data_subset)
-
     st.divider()
 
     expander = st.expander(':orange[Conclusion and Outlook]')
@@ -328,36 +250,3 @@ elif page == pages[3]:
     expander.write("However the data gave us signs that COVID had a significant negative impact especially on the GDP of most countries as well as on the life expectancy in some cases.")
     expander.write("To truly link the results in the data to COVID, further investigation is needed to include data on COVID (number of COVID-related deaths per population) in the data framework and to investigate whether the countries that experienced a sharp decline in GDP, for example, were actually severely affected by the pandemic.")
     expander.write("Furthermore, in a next step, we would use a model that takes time into account by implementing a time series and comparing it to our previous results. Other possible steps include implementing additional features that define dependencies to account for the influence of certain factors such as a pandemic, natural disasters or wars.")
-
-
-    #grouped_countries = df_mae.groupby(['Country_name', 'year', 'Regional_indicator']).agg({'Life_Ladder': 'mean', 'Life_Ladder_Avg': 'mean', 'MAE': 'mean'}).reset_index()
-    #selected_countries = ['Colombia', 'Ethiopia', 'France', 'Germany', 'Morocco', 'Japan']
-    #grouped_mae_plot = grouped_countries[grouped_countries['Country_name'].isin(selected_countries)].reset_index(drop=True)
-
-    #fig_5 = px.scatter(grouped_mae_plot, x='Life_Ladder', y='Life_Ladder_Avg', color='Country_name', size='MAE',
-    #                  hover_data=['Country_name', 'Regional_indicator', 'year'], opacity=0.6)
-
-    #st.plotly_chart(fig_5, use_container_width=True)
-
-
-
-    
-
-    #selected_years_ = [2020, 2021]
-    #df_plot = df[df['year'].astype(int).isin(selected_years_hist)].reset_index(drop=True)
-
-
- #st.dataframe(df.head())
-    #selected_years_plot = [2015, 2016, 2017, 2018, 2019]
-    #df = df.groupby(by =['Regional_indicator', 'year'])['Life_Ladder'].mean().reset_index()
-    #df_recent = df[df['year'].astype(int).isin(selected_years_plot)].reset_index(drop=True)
-    #st.line_chart(data= df_recent, x='year', y='Life_Ladder', color='Regional_indicator', use_container_width=True)
-
-#uploads = st.file_uploader("Select files ", type=['csv', 'CSV', 'xlsx'],accept_multiple_files=False)
-
-#if uploads is not None:
-#        my_dataset = load_csv(uploads)
-#        my_dataset = my_dataset.drop(['level_happiness'], axis=1)    
-#        print("Got the uploads!!!")
-#        
-#        st.dataframe(my_dataset, use_container_width=True, column_order=('Country_name', 'Regional_indicator', 'year', 'Life_Ladder', 'Log_GDP_per_capita', 'Social_support', 'Healthy_life_expectanca_at_birth', 'Freedom_to_make_life_choices', 'Generosity', 'Perceptions_of_corruption'))
